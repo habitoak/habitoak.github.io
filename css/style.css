@@ -905,6 +905,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
 }
 
+.bluelogo{
+  color: #17a2b8 !important;
+}
+
 #portfolio .portfolio-item figure {
   overflow: hidden;
   height: 240px;
